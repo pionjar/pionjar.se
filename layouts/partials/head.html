@@ -1,0 +1,6 @@
+  <meta charset="utf-8">
+  <base href="{{ .Site.BaseUrl }}">
+  <title> {{ .Title }} &middot; {{ .Site.Title }} </title>
+  <link rel="canonical" href="{{ .Permalink }}">
+  <link rel="shortcut icon" href="/favicon.ico">
+  {{ if .RSSlink }}<link href="{{ .RSSlink }}" rel="alternate" type="application/rss+xml" title="{{ .Title }}" />{{ end }}
