@@ -1,0 +1,85 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300,600);
+body {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 1em;
+	font-weight: 300;
+	word-wrap: break-word;
+}
+@media only screen and (max-width: 22em) {
+	body {
+		font-size: 0.9em;
+	}
+}
+@media only screen and (max-width: 19em) {
+	body {
+		font-size: 0.8em;
+	}
+}
+a {
+	color: inherit;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+p {
+	margin-top: 0.3em;
+	margin-bottom: 0.5em;
+}
+h1, h2, h3, h4, h5, h6 {
+	padding-top: 1em;
+	padding-bottom: 0.2em;
+	margin: 0;
+}
+body > header > h1 {
+	font-size: 2.0em;
+}
+body > main > section > header > h1,
+body > main > aside > header > h1,
+body > main > article > header > h1 {
+	font-size: 1.8em;
+}
+body > main > section > article > header > h1,
+body > main > aside > article > header > h1,
+body > main > article > h1 {
+	font-size: 1.6em;
+}
+body > main > section > article > h1,
+body > main > section > article > h1,
+body > main > article > h2 {
+	font-size: 1.4em;
+}
+body > main > section > article > h2,
+body > main > section > article > h2,
+body > main > article > h3 {
+	font-size: 1.3em;
+}
+body > main > section > article > h3,
+body > main > section > article > h3,
+body > main > article > h4,
+body > nav > ul {
+	font-size: 1.2em;
+}
+body > main > section > article > h4,
+body > main > section > article > h4,
+body > main > article > h5 {
+	font-size: 1.15em;
+}
+body > main > section > article > h5,
+body > main > section > article > h5,
+body > main > article > h6 {
+	font-size: 1.10em;
+}
+body > main > section > article > h6,
+body > main > section > article > h6 {
+	font-size: 1.05em;
+}
+body > footer {
+	font-size: 0.8em;
+}
+body > nav,
+body > footer,
+body > main > aside > article > footer,
+body > main > aside > footer {
+	font-weight: 600;
+}

@@ -1,0 +1,24 @@
+body {
+	background-color: #e4e4cc;
+}
+body > footer {
+	color: grey;
+}
+body > main {
+	background-color: #f8f8ee;
+}
+a:link,
+a:visited {
+	color: #e32500;
+}
+body > nav a:link,
+body > nav a:visited {
+	color: grey;
+}
+body > nav  a:hover {
+	background-color: #f8f8ee;
+	border: 1px solid grey;
+	text-decoration: none;
+}
+body {
+}

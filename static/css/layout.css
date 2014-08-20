@@ -1,0 +1,51 @@
+body > header {
+	text-align: center;
+}
+body > header > img {
+	width: 60%;
+	max-width: 12em;
+}
+body > footer {
+	text-align: center;
+}
+body > nav,
+body > footer,
+body > header {
+	padding-top: 0.3em;
+	padding-bottom: 0.3em;
+}
+@media only screen and (max-width: 29.99em) {
+	body {
+		margin-top: 1em;
+	}
+	body > * {
+		padding-left: 1em;
+		padding-right: 1em;
+	}
+}
+@media only screen and (min-width: 30em) {
+	body > header,
+	body > nav {
+		clear: left;
+		float: left;
+		width: 30%;
+	}
+	body > main {
+		margin-left: 30%;
+		padding: 2%;
+	}
+	body > footer {
+		clear: both;
+	}
+}
+@media only screen and (min-width: 50em) {
+	body > header,
+	body > nav {
+		width: 15em;
+	}
+	body > main {
+		margin-left: 15em;
+		padding: 1em;
+		max-width: 40em;
+	}
+}

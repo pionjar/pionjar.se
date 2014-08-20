@@ -11,23 +11,19 @@
       {{ template "partials/menu.html" .Site.Menus.main }}
     </nav>
     <main>
-      <section>
-        <header></header>
-        {{ range .Data.Pages }}
-          {{ if (eq .File.Dir "") }}
-            {{ if (eq .File.FileName "index.md") }}
-              <article>
-                <header>
-                  <h1>{{ .Title }}</h1>
-                </header>
-                {{ .Content }}
-                <footer></footer>
-              </article>
-            {{ end }}
+      {{ range .Data.Pages }}
+        {{ if (eq .File.Dir "") }}
+          {{ if (eq .File.FileName "index.md") }}
+      <article>
+        <header>
+          <h1>{{ .Title }}</h1>
+        </header>
+        {{ .Content }}
+        <footer></footer>
+      </article>
           {{ end }}
         {{ end }}
-        <footer></footer>
-      </section>
+      {{ end }}
       <aside>
         <header>
           <h1>Akuellt</h1>

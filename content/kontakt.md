@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Kontakt"
 description: "Kontakta pionjärerna."
 date: "2014-08-12"

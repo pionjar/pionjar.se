@@ -1,0 +1,17 @@
+nav ul {
+	list-style-type: none;
+	padding-left: inherit;
+}
+body > nav ul {
+	margin-left: auto;
+	margin-right: auto;
+	padding: 0;
+	display: table;
+}
+body > nav  li {
+	display: table-row;
+}
+body > nav  a {
+	display: table-cell;
+	padding: 0.2em;
+}
