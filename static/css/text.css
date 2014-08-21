@@ -4,6 +4,10 @@ body {
 	font-size: 1em;
 	font-weight: 300;
 	word-wrap: break-word;
+	word-break: normal;
+	-webkit-hyphens: auto;
+	-moz-hyphens: auto;
+	hyphens: auto;
 }
 @media only screen and (max-width: 22em) {
 	body {
@@ -33,6 +37,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 body > header > h1 {
 	font-size: 2.0em;
+}
+body > nav {
+	text-transform: lowercase;
 }
 body > main > section > header > h1,
 body > main > aside > header > h1,
@@ -77,8 +84,6 @@ body > main > section > article > h6 {
 body > footer {
 	font-size: 0.8em;
 }
-body > nav,
-body > footer,
 body > main > aside > article > footer,
 body > main > aside > footer {
 	font-weight: 600;

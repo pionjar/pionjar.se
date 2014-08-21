@@ -2,8 +2,8 @@ body > header {
 	text-align: center;
 }
 body > header > img {
-	width: 60%;
-	max-width: 12em;
+	width: 100%;
+	max-width: 14em;
 }
 body > footer {
 	text-align: center;
