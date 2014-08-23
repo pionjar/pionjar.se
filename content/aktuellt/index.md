@@ -7,3 +7,4 @@ menu:
   main:
     weight: 40
 ---
+Här publicerar vi aktuella nyheter och information.
