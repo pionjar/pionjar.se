@@ -11,6 +11,19 @@
 			{{ template "partials/menu.html" .Site.Menus.main }}
 		</nav>
 		<main>
+			{{ range .Data.Pages }}
+				{{ if (eq .File.Dir "") }}
+					{{ if (eq .File.FileName "index.md") }}
+			<article>
+				<header>
+					<h1>{{ .Title }}</h1>
+				</header>
+				{{ .Content }}
+				<footer></footer>
+			</article>
+					{{ end }}
+				{{ end }}
+			{{ end }}
 		</main>
 		<footer>
 			{{ template "partials/footer.html" . }}
