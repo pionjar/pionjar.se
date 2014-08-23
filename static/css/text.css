@@ -19,6 +19,12 @@ body {
 		font-size: 0.8em;
 	}
 }
+@media only screen {
+	em {
+		font-weight: 600;
+		font-style: normal;
+	}
+}
 a {
 	color: inherit;
 	text-decoration: none;
