@@ -27,7 +27,7 @@ menu:
 
 Bästa stället att hämta och lämna barnen är vid Brunnspaviljongen där förskolan DaVinci är inrymd.
 
-### Bus
+### Buss
 De närmaste hållplatserna är:
 
 - Polacksbacken (12, 20, 101, 110, 115)
