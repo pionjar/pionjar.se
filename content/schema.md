@@ -27,8 +27,8 @@ menu:
 
 Bästa stället att hämta och lämna barnen är vid Brunnspaviljongen där förskolan DaVinci är inrymd.
 
-### Buss
-De närmaste hållplatserna är:
+### Kollektivtrafik
+De närmaste busshållplatserna är:
 
 - Polacksbacken (12, 20, 101, 110, 115)
 - Uppsala Science Park (3, 11, 12, 14, 20, 101, 110, 111, 115)
