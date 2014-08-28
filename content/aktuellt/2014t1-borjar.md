@@ -2,8 +2,8 @@
 title: "Hösten 2014 börjar"
 date: "2014-08-12"
 ---
-Hösterminen börjar den _26:e augusti klockan 18:00_. I Uppsala träffas vi vid _Brunnspaviljongen_ och i Storvreta vid _Tipptoppen_.
-Pionjärerna har verksamhet för dig från _årskurs 4:a_.
+Hösterminen börjar tisdag den _26:e augusti klockan 18:00_. I Uppsala träffas vi vid _Brunnspaviljongen_ och i Storvreta vid _Tipptoppen_.
+Pionjärerna har verksamhet för dig från _årskurs 4_.
 
 Som Pionjär lär man sig bland annat att:
 
