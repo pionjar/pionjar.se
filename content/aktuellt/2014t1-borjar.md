@@ -16,6 +16,6 @@ Som Pionjär lär man sig bland annat att:
 
 Vi samlas på tisdagar och är nästan alltid utomhus.
 
-Missa inte höstens första hajk 21 - 22 september.
+Missa inte höstens första hajk 27-28 september.
 
 Om du har frågor gällande Pionjärerna är du välkommen att [kontakta oss](/kontakt).
