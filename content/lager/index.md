@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "Läger"
 description: "Förra årets läger."
 date: "2015-10-20"
