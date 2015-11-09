@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "Aktuellt"
 description: "Aktuellt."
 date: "2014-08-12"
