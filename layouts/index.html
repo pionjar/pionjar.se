@@ -13,7 +13,7 @@
     <main>
       {{ range .Data.Pages }}
         {{ if (eq .File.Dir "") }}
-          {{ if (eq .File.FileName "index.md") }}
+          {{ if (eq .File "index.md") }}
       <article>
         <header>
           <h1>{{ .Title }}</h1>
@@ -29,7 +29,7 @@
           <h1>Akuellt</h1>
         </header>
         {{ range first 4 .Site.Sections.aktuellt.Pages.ByDate.Reverse }}
-        {{ if not (eq .File.FileName "index.md")}}
+        {{ if not (eq .File "index.md")}}
         <article>
           <header>
             <h1><a href='{{ .Permalink }}'>{{ .Title }}</a></h1>
@@ -41,7 +41,7 @@
         {{ end }}
         {{ end }}
         <footer>
-          <p><a href='{{ .Site.BaseUrl }}/aktuellt'>äldre</a></p>
+          <p><a href='{{ .Site.BaseURL }}/aktuellt'>äldre</a></p>
         </footer>
       </aside>
     </main>
