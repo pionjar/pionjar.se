@@ -1,7 +1,7 @@
 body > header {
 	text-align: center;
 }
-body > header > img {
+body > header > a > img {
 	width: 100%;
 	max-width: 14em;
 }
