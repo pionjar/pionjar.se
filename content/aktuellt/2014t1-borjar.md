@@ -1,6 +1,7 @@
 ---
 title: "Hösten 2015 börjar"
 date: "2015-08-24"
+draft: true
 ---
 Hösterminen börjar tisdag den _1:a september klockan 18:00_. I Uppsala träffas vi vid _Brunnspaviljongen_ och i Storvreta vid _Tipptoppen_.
 Pionjärerna har verksamhet för dig från _årskurs 4_.
