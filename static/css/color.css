@@ -6,14 +6,14 @@ body > main {
 }
 a:link,
 a:visited {
-	color: #e32500;
+	color: #2f662b;
 }
 
 h1, h2, h3, h4, h5, h6,
 body > nav a:link,
 body > nav a:visited,
 body > footer {
-	color: #92916e;
+	color: #2f662b;
 }
 body > nav a {
 	border-style: solid;
