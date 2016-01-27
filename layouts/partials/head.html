@@ -1,5 +1,12 @@
+{{ .Scratch.Add "title" "" }}
+{{ if isset .Site.Data.titles .Title }}
+	{{ .Scratch.Set "title" (index .Site.Data.titles .Title).title }}
+{{ else }}
+	{{ .Scratch.Set "title" .Title }}
+{{ end }}
+
   <meta charset="utf-8">
-  <title> {{ .Title }} &middot; {{ .Site.Title }} </title>
+  <title> {{ .Scratch.Get "title" }} &middot; {{ .Site.Title }} </title>
   <link rel="canonical" href="{{ .Permalink }}">
   <link rel="shortcut icon" href="/favicon.ico">
   {{ if .RSSlink }}<link href="{{ .RSSlink }}" rel="alternate" type="application/rss+xml" title="{{ .Title }}" />{{ end }}
