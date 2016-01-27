@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+  <head>
+    {{ template "partials/head.html" . }}
+  </head>
+  <body>
+    <header>
+      {{ template "partials/header.html" . }}
+    </header>
+    <nav>
+      {{ template "partials/menu.html" .Site.Menus.main }}
+    </nav>
+    <main>
+      {{ range .Data.Pages }}
+        {{ if (eq .File.Dir "") }}
+          {{ if (eq .File "index.md") }}
+      <article>
+        <header>
+          <h1>{{ .Title }}</h1>
+        </header>
+        {{ .Content }}
+        <footer></footer>
+      </article>
+          {{ end }}
+        {{ end }}
+      {{ end }}
+      <aside>
+        <header>
+          <h1>Akuellt</h1>
+        </header>
+        {{ range first 4 .Site.Sections.aktuellt.Pages.ByDate.Reverse }}
+        {{ if not (eq .File "index.md")}}
+        <article>
+          <header>
+            <h1><a href='{{ .Permalink }}'>{{ .Title }}</a></h1>
+            <p><time>{{ .Date.Format "2006-01-02" }}</time></p>
+          </header>
+          {{ .Content }}
+          <footer><p><a href='{{ .Permalink }}'>mer</a><p></footer>
+        </article>
+        {{ end }}
+        {{ end }}
+        <footer>
+          <p><a href='{{ .Site.BaseURL }}/aktuellt'>äldre</a></p>
+        </footer>
+      </aside>
+    </main>
+    <footer>
+      {{ template "partials/footer.html" . }}
+    </footer>
+    {{ template "partials/foot.html" . }}
+  </body>
+</html>
