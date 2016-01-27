@@ -1,6 +1,7 @@
 ---
 title: "Om"
 date: "2014-08-12"
+draft: true
 menu:
   main:
     weight: 10
