@@ -2,6 +2,7 @@
 title: "Kontakt"
 description: "Kontakta pionjärerna."
 date: "2014-08-12"
+draft: true
 menu:
   main:
     weight: 60
