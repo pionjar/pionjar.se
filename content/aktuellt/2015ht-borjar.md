@@ -3,11 +3,10 @@ title: "Hösten 2015 börjar"
 date: "2015-08-24"
 draft: false
 ---
-![start](/img/start-640.jpg)
-Hösterminen börjar tisdag den _1:a september klockan 18:00_. I Uppsala träffas vi vid _Brunnspaviljongen_ och i Storvreta vid _Tipptoppen_.
-Pionjärerna har verksamhet för dig från _årskurs 4_.
+Hösterminen börjar tisdag den 1:a september klockan 18:00. I Uppsala träffas vi vid Brunnspaviljongen och i Storvreta vid Tipptoppen.
+Pionjärerna har verksamhet för dig från årskurs 4.
 
-Som Pionjär lär man sig bland annat att:
+Som Pionjär lär man sig bland annat:
 
 - vistas i skog och mark
 - använda kniv, yxa och såg på ett säkert sätt
