@@ -1,0 +1,18 @@
+BaseURL: "http://pionjar.se"
+languageCode: "sv-se"
+title: "Pionjärerna"
+tagline: "Alltid redo för goda gärningar"
+params:
+  onlyLogotype: true
+  logotype: "logotype_sv.svg"
+  footer: "copyright &copy; 2016 Pionjärerna"
+
+MetaDataFormat: "toml"
+blackfriday:
+  extensions:
+    - hardLineBreak
+menu:
+  main:
+    - name: "Aktuellt"
+      weight: 20
+      URL: "/aktuellt/"

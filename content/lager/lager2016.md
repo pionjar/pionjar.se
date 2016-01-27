@@ -6,10 +6,10 @@ menu:
   main:
     weight: 40
 ---
-![piratlager](/lager/affish3-720.jpg)
+![piratlager](/lager/affish3-640.jpg)
 
-**Följ med på sommarens främsta höjdpunkt**
+**Följ med på sommarens höjdpunkt!**
 
-**Ett ävenyr utan dess like**
+**Ett äventyr utan dess like!**
 
 **Mer info kommer...**
