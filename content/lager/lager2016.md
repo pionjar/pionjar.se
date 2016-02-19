@@ -6,7 +6,9 @@ menu:
   main:
     weight: 40
 ---
+{{< img >}}
 ![piratlager](/lager/affish3-640.jpg)
+{{< /img >}}
 
 **Följ med på sommarens höjdpunkt!**
 
