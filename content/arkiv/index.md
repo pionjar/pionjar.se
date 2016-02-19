@@ -8,4 +8,4 @@ menu:
 ---
 Här är videon inför sommarlägret 2015.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vwqdymJSqqY" frameborder="0" allowfullscreen></iframe>
+{{< youtube vwqdymJSqqY >}}
