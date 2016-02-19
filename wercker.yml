@@ -1,0 +1,12 @@
+box: wercker/default
+build:
+  steps:
+    - script:
+    - arjen/hugo-build:
+        version: "0.14"
+deploy:
+  steps:
+    - lukevivier/gh-pages@0.2.1:
+        token: $GIT_TOKEN
+        domain: ericleimar.github.io/pionjar
+        basedir: public
