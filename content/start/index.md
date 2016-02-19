@@ -19,4 +19,6 @@ Upptäckarna och även Stigfinnarna är indelade i två avdelningar - en i Uppsa
 
 Vi träffas normalt varje tisdag klockan 18:00. Vill du börja, eller har frågor så är det bara att [kontakta oss](mailto:pionjar.uppsala@gmail.com).
 
+{{< img >}}
 ![start](/img/start-640.jpg)
+{{< /img >}}
