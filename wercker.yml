@@ -1,7 +1,6 @@
 box: wercker/default
 build:
   steps:
-    - script:
     - arjen/hugo-build:
         version: "0.14"
 deploy:
