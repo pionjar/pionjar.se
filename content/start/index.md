@@ -2,7 +2,6 @@
 title: "Välkommen"
 date: "2014-08-12"
 ---
-# Wercker test build
 Välkommen till Pionjärernas webplats.
 
 Här hittar du information om våra samlingar, hajker och läger.
@@ -19,6 +18,6 @@ Upptäckarna och även Stigfinnarna är indelade i två avdelningar - en i Uppsa
 
 Vi träffas normalt varje tisdag klockan 18:00. Vill du börja, eller har frågor så är det bara att [kontakta oss](mailto:pionjar.uppsala@gmail.com).
 
-{{< img >}}
+<img>
 ![start](/img/start-640.jpg)
-{{< /img >}}
+</img>
