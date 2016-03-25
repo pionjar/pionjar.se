@@ -2,11 +2,12 @@
 title: "Kontakt"
 description: "Kontakta pionjärerna."
 date: "2014-08-12"
-draft: true
+draft: false
 menu:
   main:
     weight: 60
 ---
 Tveka inte att kontakta oss med frågor och funderingar.
 
-<iframe height="496" allowTransparency="true" frameborder="0" scrolling="no" style="width:100%;border:none"  src="https://pionjar.wufoo.com/embed/zuf228l0mqedj1/"><a href="https://pionjar.wufoo.com/forms/zuf228l0mqedj1/">Här finns formuläret.</a></iframe>
+<iframe src="https://services.cognitoforms.com/f/Pc_BlvCVZ0KvtrrWxwatIw?id=2" style="position:relative;width:1px;min-width:100%;*width:100%;" frameborder="0" scrolling="yes" seamless="seamless" height="411" width="100%"></iframe>
+<script src="https://services.cognitoforms.com/scripts/embed.js"></script>
