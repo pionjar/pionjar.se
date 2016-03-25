@@ -7,11 +7,7 @@ menu:
     weight: 40
 ---
 
-![piratlager](/lager/affish3-640.jpg)
+![piratlager](/lager/affisch.jpg)
 
-
-**Följ med på sommarens höjdpunkt!**
-
-**Ett äventyr utan dess like!**
-
-**Mer info kommer...**
+<iframe src="https://services.cognitoforms.com/f/Pc_BlvCVZ0KvtrrWxwatIw?id=1" style="position:relative;width:1px;min-width:100%;*width:100%;" frameborder="0" scrolling="yes" seamless="seamless" height="821" width="100%"></iframe>
+<script src="https://services.cognitoforms.com/scripts/embed.js"></script>
