@@ -1,8 +1,6 @@
 #!/bin/bash
-rm -rf public/*
-hugo
-pushd public
-git add -A *
+pushd pionjar.se
+git add -A
 git commit -m "$1"
-git push
-popd
+git pull upstream master
+git push origin master
