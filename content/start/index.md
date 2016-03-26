@@ -1,6 +1,6 @@
 ---
 title: "Välkommen"
-date: "2014-08-12"
+date: "2016-03-26"
 ---
 Välkommen till Pionjärernas webplats.
 
@@ -18,4 +18,6 @@ Upptäckarna och även Stigfinnarna är indelade i två avdelningar - en i Uppsa
 
 Vi träffas normalt varje tisdag klockan 18:00. Vill du börja, eller har frågor så är det bara att [kontakta oss](/kontakt).
 
-![start](/img/start-640.jpg)
+![piratskatten](/lager/affisch.jpg)
+
+Missa inte sommarens höjdpunkt! [Anmäl dig nu](/lager/piratskatten2016)
