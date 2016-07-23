@@ -3,6 +3,8 @@ title: "Välkommen"
 date: "2016-03-26"
 weight: 20
 ---
+![start](/start/start.jpg)
+
 Välkommen till Pionjärernas webplats.
 
 Här hittar du information om våra samlingar, hajker och läger.

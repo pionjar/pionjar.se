@@ -2,6 +2,7 @@
 title: "Piratskatten - sommarläger"
 date: "2016-04-01"
 weight: 10
+draft: true
 ---
 ![piratskatten](/lager/lagerbanner3.jpg)
 
