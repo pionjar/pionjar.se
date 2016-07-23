@@ -1,6 +1,7 @@
 ---
 title: "Anmälan"
 date: "2016-01-25"
+draft: true
 ---
 ![piratlager](/lager/lagerbanner.jpg)
 
