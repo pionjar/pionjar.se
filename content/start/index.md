@@ -3,7 +3,7 @@ title: "Välkommen"
 date: "2016-03-26"
 weight: 20
 ---
-![start](/start/start.jpg)
+![start](/img/start.jpg)
 
 Välkommen till Pionjärernas webplats.
 
