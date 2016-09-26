@@ -24,7 +24,7 @@ weight: 41
 ![1](/galleri/hosthajk2016/img5338.jpg)
 ![1](/galleri/hosthajk2016/img5366.jpg)
 ![1](/galleri/hosthajk2016/img5410.jpg)
-![1](/galleri/hosthajk2016/img5435.jpg)
+<!--![1](/galleri/hosthajk2016/img5435.jpg)-->
 ![1](/galleri/hosthajk2016/img5454.jpg)
 ![1](/galleri/hosthajk2016/img5504.jpg)
 ![1](/galleri/hosthajk2016/img5544.jpg)
