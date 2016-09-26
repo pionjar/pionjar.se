@@ -28,6 +28,5 @@ weight: 40
 ![23](/galleri/img0664.jpg)
 ![24](/galleri/img0665.jpg)
 ![25](/galleri/img0679.jpg)
-![26](/galleri/img0772.jpg)
-![27](/galleri/img0800.jpg)
-![28](/galleri/img0809.jpg)
+![26](/galleri/img0800.jpg)
+![27](/galleri/img0809.jpg)
