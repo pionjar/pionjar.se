@@ -5,7 +5,7 @@ tagline: "Alltid redo för goda gärningar"
 params:
   onlyLogotype: true
   logotype: "logotype_sv.svg"
-  footer: "copyright &copy; 2016 Pionjärerna"
+  footer: "copyright &copy; 2017 Pionjärerna"
 
 MetaDataFormat: "toml"
 blackfriday:

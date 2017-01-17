@@ -8,9 +8,8 @@ menu:
 ---
 # Uppsala
 
-- [Upptäckare](/filer/schema/ht16-ut.pdf) (årskurs 4 och 5)
-- [Stigfinnare](/filer/schema/ht16-sf.pdf) (årskurs 6 och 7)
-- [Äventyrare](/filer/schema/ht16-at.pdf) (årskurs 8 och 9)
+- [Upptäckare](/filer/schema/2017-t1-ut.pdf) (årskurs 4 och 5)
+- [Stigfinnare & Äventyrare](/filer/schema/2017-t1-sfat.pdf) (årskurs 6 -9)
 
 # Storvreta
 Det här läsåret välkomnar vi alla Storvreta-Pionjärer till verksamheten inne i Uppsala.
