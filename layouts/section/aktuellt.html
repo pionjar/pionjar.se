@@ -28,7 +28,7 @@
         <header>
           <h1>Aktuellt</h1>
         </header>
-        {{ range first 4 .Site.Sections.aktuellt.Pages.ByDate.Reverse }}
+        {{ range first 6 .Site.Sections.aktuellt.Pages.ByDate.Reverse }}
         {{ if not (eq .File "index.md")}}
         <article>
           <header>
