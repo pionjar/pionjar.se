@@ -6,6 +6,9 @@ menu:
   main:
     weight: 90
 ---
-Här är videon inför sommarlägret 2015.
+Affischen inför piratlägret 2016, Issjö.
+![piratlager](/lager/affisch.jpg)
+
+Videon inför riddarlägret 2015, Issjö.
 
 {{< youtube vwqdymJSqqY >}}

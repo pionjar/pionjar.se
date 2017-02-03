@@ -1,7 +1,7 @@
 ---
 title: "Sommarläger"
 date: "2016-01-25"
-draft: false
+draft: true
 menu:
   main:
     weight: 40
