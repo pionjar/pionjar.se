@@ -1,12 +1,11 @@
 ---
-title: "PIONJÄRLÄGER 2017"
+title: ""
 date: "2017-03-02"
 weight: 10
 draft: false
 ---
 <a href="/lager/2017/">
-  <img src="/img/joe-dalton-sepia.png" alt="HTML tutorial" ">
+  <img src="/img/daltons.png" alt="Anmäl dig till lägret." ">
 </a>
-**Klicka på bilden för mer information och anmälan!**
 
-<!--style="width:420px;height:42px;border:0;-->
+Anmäl dig till lägret _[här](/lager/2017/)_.
