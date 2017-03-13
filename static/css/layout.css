@@ -1,3 +1,9 @@
+body > main > article > header > p,
+body > main > article > nav,
+body > main > footer > nav {
+	display: none;
+}
+
 body > header {
 	text-align: center;
 }

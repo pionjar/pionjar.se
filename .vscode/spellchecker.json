@@ -1,0 +1,12 @@
+{
+    "language": "sv_SE",
+    "ignoreWordsList": [
+    ],
+    "documentTypes": [
+        "markdown",
+        "plaintext"
+    ],
+    "ignoreRegExp": [],
+    "ignoreFileExtensions": [],
+    "checkInterval": 5000
+}

@@ -1,7 +1,0 @@
-    <a href="/">
-    {{ with .Site.Params.logotype }}<img src="/img/{{ . }}">{{ end }}
-    {{ if not .Site.Params.onlyLogotype }}
-    <h1>{{ .Site.Title }}</h1>
-    {{ with .Site.Params.tagline }}<p>{{ . }}</p>{{ end }}
-    {{ end }}
-    </a>
