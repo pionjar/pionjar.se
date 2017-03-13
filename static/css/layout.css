@@ -1,61 +1,51 @@
-body > main > article > header > p,
-body > main > article > nav,
+/* General */
+body {
+	color: rgb(250, 250, 250);
+	background: rgb(50, 50, 50);
+}
 body > main > footer > nav {
 	display: none;
 }
-
-body > header {
-	text-align: center;
-}
-body > header > a > img {
-	width: 100%;
-	max-width: 14em;
-}
-body > footer {
-	text-align: center;
-}
-body > nav,
-body > footer,
-body > header {
-	padding-top: 0.3em;
-	padding-bottom: 0.3em;
-}
-body > main > aside > article > footer,
-body > main > aside > footer {
+article > header > p {
 	display: none;
 }
-@media only screen and (max-width: 29.99em) {
-	body {
-		margin-top: 1em;
-	}
-	body > * {
-		padding-left: 1em;
-		padding-right: 1em;
-	}
+/* Header */
+body > header {
+	position: absolute;
+	width: 100%;
 }
-@media only screen and (min-width: 30em) {
-	body > header,
-	body > nav {
-		clear: left;
-		float: left;
-		width: 30%;
-	}
-	body > main {
-		margin-left: 30%;
-		padding: 2%;
-	}
-	body > footer {
-		clear: both;
-	}
+body > header > h1 {
+	max-width: 30vw;
+	width: 10em;
+	margin-left: auto;
+	margin-right: auto;
+	background: rgba(255, 255, 255, 0.3);
+	border-left: solid 1px rgba(255, 255, 255, 0.5);
+	border-right: solid 1px rgba(255, 255, 255, 0.5);
+	border-bottom: solid 1px rgba(255, 255, 255, 0.5);
+	border-bottom-left-radius: 10%;
+	border-bottom-right-radius: 10%;
+	padding-bottom: 0;
 }
-@media only screen and (min-width: 50em) {
-	body > header,
-	body > nav {
-		width: 15em;
-	}
-	body > main {
-		margin-left: 15em;
-		padding: 1em;
-		max-width: 40em;
-	}
+/* Main */
+body > main > article {
+	background: rgb(10, 10, 10);
 }
+body > main > article > * {
+	width: 40em;
+	max-width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
+body > main > article.body > *:not(main) {
+	display: none;
+}
+body > main > article.half {
+	float: left;
+	width: calc(50% - 1px);
+	margin-left: 0;
+	margin-right: 0;
+}
+/* Footer */

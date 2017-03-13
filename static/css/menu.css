@@ -1,3 +1,6 @@
+body > nav {
+	display: none;
+}
 nav ul {
 	list-style-type: none;
 	padding-left: inherit;
