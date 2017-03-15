@@ -2,7 +2,11 @@
 title: "Om Pionjärerna"
 date: "2017-03-13"
 weight: 70
+image: "./start/om/P1470963.jpg"
+class: "image-body"
 ---
+# Om Pionjärerna
+
 Pionjärerna är ett kristet barn- och ungdomsarbete inriktat mot friluftsliv och klassisk scouting.
 
 Vår Uppsala-kår är indelad i tre åldersgrupper:

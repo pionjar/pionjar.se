@@ -27,25 +27,35 @@ body > header > h1 {
 	border-bottom-right-radius: 10%;
 	padding-bottom: 0;
 }
+body > header > h1 img {
+	max-width: 100%;
+	height: auto;
+}
+
 /* Main */
 body > main > article {
-	background: rgb(10, 10, 10);
+	background: rgb(40, 40, 40);
 }
-body > main > article > * {
+body > main > article.fill > *,
+body > main > article:not(.fill) {
 	width: 40em;
 	max-width: 90%;
 	margin-left: auto;
 	margin-right: auto;
-	padding-top: 1em;
-	padding-bottom: 1em;
 }
-body > main > article.body > *:not(main) {
+body > main > article > header,
+body > main > article > main {
+	padding-left: 1em;
+	padding-right: 1em;
+}
+body > main > article > nav,
+body > main > article > footer,
+body > main > article.body > header,
+body > main > article.image-body > header {
 	display: none;
 }
-body > main > article.half {
-	float: left;
-	width: calc(50% - 1px);
-	margin-left: 0;
-	margin-right: 0;
+body > main > article > main:first-child > p:only-child {
+	margin: 0;
 }
+
 /* Footer */

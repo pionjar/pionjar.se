@@ -1,0 +1,27 @@
+body > main article.image-body {
+	position: relative;
+	width: 40em;
+	max-width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+}
+body > main > article.image-body > main {
+	display: inline-block;
+	padding-left: 1em;
+	padding-right: 1em;
+	width: calc(50% - 2em);
+	margin-right: -0.5ex;
+	vertical-align: middle;
+}
+body > main > article.image-body > aside {
+	display: inline-block;
+	width: 50%;
+	margin-right: -0.5ex;
+	vertical-align: middle;
+	height: 100%;
+}
+body > main > article.image-body > aside > img {
+	width: 100%;
+	height: auto;
+	overflow-y: hidden;
+}

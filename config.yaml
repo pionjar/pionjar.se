@@ -9,9 +9,11 @@ params:
   logotype: "img/logotype_sv.svg"
   footer: "copyright &copy; 2017 Pionjärerna"
   CSS:
-    - "css/layout.css"
     - "css/color.css"
     - "css/text.css"
+    - "css/layout.css"
+    - "css/image-body.css"
+    - "css/sublist.css"
     - "css/menu.css"
     - "css/image.css"
   ListMode: "summary"
