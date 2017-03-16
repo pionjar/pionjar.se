@@ -29,8 +29,3 @@ googleAnalytics: "UA-72875022-1"
 blackfriday:
   extensions:
     - hardLineBreak
-menu:
-  main:
-    - name: "Aktuellt"
-      weight: 20
-      URL: "/aktuellt/"

@@ -2,9 +2,10 @@
 title: "Bilder"
 description: "Bilder av och med Pionjärerna"
 date: "2016-09-26"
+draft: true
 menu:
   main:
-    weight: 39
+    weight: 50
 ---
 ## [Hösthajk 2016](/bilder/hosthajk2016)
 ![host](/bilder/hosthajk2016/img5454.jpg)

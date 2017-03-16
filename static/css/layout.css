@@ -50,3 +50,13 @@ iframe {
 	padding: 0 !important;
 	background: rgb(250, 250, 250);
 }
+/* aside */
+body > main.single > article > aside {
+	display: none;
+}
+
+/* img */
+body > main > article > main > p > img {
+	width: calc(100% + 2rem);
+	margin-left: -1rem;
+}
