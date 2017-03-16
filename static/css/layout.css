@@ -41,3 +41,12 @@ body > main > article.image-body > header {
 body > main > article > main:first-child > p:only-child {
 	margin: 0;
 }
+/* iframe */
+iframe {
+	display: block;
+	height: 420px;
+	max-width: none;
+	width: 100%;
+	padding: 0 !important;
+	background: rgb(250, 250, 250);
+}
