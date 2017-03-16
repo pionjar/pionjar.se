@@ -1,8 +1,12 @@
+@media screen and (min-width: 640px) {
+	body > main > article.mode-list > article {
+		width: 50%;
+		margin-right: -0.5ex;
+	}
+}
 body > main > article.mode-list > article {
 	display: inline-block;
-	width: 50%;
 	position: relative;
-	margin-right: -0.5ex;
 	vertical-align: middle;
 }
 body > main > article.mode-list > article > header {
@@ -12,8 +16,7 @@ body > main > article.mode-list > article > header {
 	width: 100%;
 	height: 100%;
 	opacity: 0;
-	color: rgb(20, 20, 20);
-	background: rgba(255, 255, 255, 0.5);
+	background: rgba(50, 50, 50, 0.5);
 }
 body > main > article.mode-list > article > header > h1 {
 	width: 100%;

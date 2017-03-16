@@ -7,16 +7,10 @@ body > main article.image-body {
 }
 body > main > article.image-body > main {
 	display: inline-block;
-	padding-left: 1em;
-	padding-right: 1em;
-	width: calc(50% - 2em);
-	margin-right: -0.5ex;
 	vertical-align: middle;
 }
 body > main > article.image-body > aside {
 	display: inline-block;
-	width: 50%;
-	margin-right: -0.5ex;
 	vertical-align: middle;
 	height: 100%;
 }
@@ -24,4 +18,16 @@ body > main > article.image-body > aside > img {
 	width: 100%;
 	height: auto;
 	overflow-y: hidden;
+}
+@media screen and (min-width: 640px) {
+	body > main > article.image-body > main {
+		display: inline-block;
+		width: 50%;
+		margin-right: -0.5ex;
+		vertical-align: middle;
+	}
+	body > main > article.image-body > aside {
+		width: 50%;
+		margin-right: -0.5ex;
+	}
 }

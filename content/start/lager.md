@@ -11,4 +11,4 @@ I år bär det av mot vilda västern. Vi garanterar ett oförglömligt äventyr.
 
 Utöver det så blir det även god mat, bad, lek och förvandlande gudsmöten.
 
-[Anmäl dig innan _sista mars_ för att få tidig anmälan rabatten.](/lager/2017/)
+[Anmäl dig innan _sista mars_ för att få tidig-anmälan-rabatten.](/lager/2017/)

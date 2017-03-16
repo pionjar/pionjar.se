@@ -6,12 +6,14 @@ theme: hugo-theme-html5
 MetaDataFormat: yaml
 params:
   onlyLogotype: true
-  logotype: "img/logotype_sv.svg"
+  logotype: "img/logotype-pionjar-normal-white.svg"
   footer: "copyright &copy; 2017 Pionjärerna"
   CSS:
     - "css/color.css"
     - "css/text.css"
     - "css/layout.css"
+    - "css/header.css"
+    - "css/footer.css"
     - "css/image-body.css"
     - "css/sublist.css"
     - "css/menu.css"
