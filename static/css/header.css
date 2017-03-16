@@ -1,8 +1,10 @@
 html.home > body > header {
-	height: 80vh;
+	min-height: 80vh;
+	padding-bottom: 8em;
 }
 html:not(.home) > body > header {
-	height: 30vh;
+	min-height: 30vh;
+	padding-bottom: 2em;
 }
 html.home > body > header > h1 {
 	max-width: 80vw;
