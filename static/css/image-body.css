@@ -1,0 +1,40 @@
+body > main article.image-body {
+	position: relative;
+	width: 40em;
+	max-width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+body > main > article.image-body > main {
+	direction: ltr;
+	display: inline-block;
+	vertical-align: middle;
+}
+body > main > article.image-body > aside {
+	display: inline-block;
+	vertical-align: middle;
+	height: 100%;
+}
+body > main > article.image-body > aside > img {
+	display: block;
+	width: 100%;
+	height: auto;
+	overflow-y: hidden;
+}
+@media screen and (min-width: 640px) {
+	body > main article.image-body:nth-child(even) {
+		direction: rtl;
+	}
+	body > main > article.image-body:nth-child(even) > aside,
+	body > main > article.image-body:nth-child(odd) > main {
+		margin-left: -0.5ex;
+	}
+	body > main > article.image-body > main {
+		display: inline-block;
+		width: 50%;
+		vertical-align: middle;
+	}
+	body > main > article.image-body > aside {
+		width: 50%;
+	}
+}

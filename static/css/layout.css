@@ -1,55 +1,62 @@
-body > header {
-	text-align: center;
+/* General */
+body {
+	color: rgb(250, 250, 250);
+	background: rgb(50, 50, 50);
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#262626+0,4d535b+100 */
+background: #262626; /* Old browsers */
+background: -moz-linear-gradient(top,  #262626 0%, #4d535b 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #262626 0%,#4d535b 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #262626 0%,#4d535b 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#262626', endColorstr='#4d535b',GradientType=0 ); /* IE6-9 */
+
 }
-body > header > a > img {
-	width: 100%;
-	max-width: 14em;
-}
-body > footer {
-	text-align: center;
-}
-body > nav,
-body > footer,
-body > header {
-	padding-top: 0.3em;
-	padding-bottom: 0.3em;
-}
-body > main > aside > article > footer,
-body > main > aside > footer {
+body > main > footer > nav {
 	display: none;
 }
-@media only screen and (max-width: 29.99em) {
-	body {
-		margin-top: 1em;
-	}
-	body > * {
-		padding-left: 1em;
-		padding-right: 1em;
-	}
+article > header > p {
+	display: none;
 }
-@media only screen and (min-width: 30em) {
-	body > header,
-	body > nav {
-		clear: left;
-		float: left;
-		width: 30%;
-	}
-	body > main {
-		margin-left: 30%;
-		padding: 2%;
-	}
-	body > footer {
-		clear: both;
-	}
+/* Main */
+body > main > article {
+	background: rgb(40, 40, 40);
 }
-@media only screen and (min-width: 50em) {
-	body > header,
-	body > nav {
-		width: 15em;
-	}
-	body > main {
-		margin-left: 15em;
-		padding: 1em;
-		max-width: 40em;
-	}
+body > main > article.fill > *,
+body > main > article:not(.fill) {
+	width: 40em;
+	max-width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+body > main > article > header > *,
+body > main > article > main > * {
+	padding-left: 1rem;
+	padding-right: 1rem;
+}
+body > main > article > nav,
+body > main > article > footer,
+body > main > article.body > header,
+body > main > article.image-body > header {
+	display: none;
+}
+body > main > article > main:first-child > p:only-child {
+	margin: 0;
+}
+/* iframe */
+iframe {
+	display: block;
+	height: 420px;
+	max-width: none;
+	width: 100%;
+	padding: 0 !important;
+	background: rgb(250, 250, 250);
+}
+/* aside */
+body > main.single > article > aside {
+	display: none;
+}
+
+/* img */
+body > main > article > main > p > img {
+	width: calc(100% + 2rem);
+	margin-left: -1rem;
 }

@@ -1,2 +1,5 @@
-		{{ with .Site.Params.footer }}<p>{{ . | safeHTML }}</p>{{ end }}
-{{ template "partials/analytics.html" . }}
+			<nav>
+{{ partial "menu.html" (dict "node" . "menu" .Site.Menus.main) }}
+			</nav>
+			<main>
+			</main>

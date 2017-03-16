@@ -1,10 +1,10 @@
 ---
-title: "Om"
+title: "Om Pionjärerna"
 date: "2014-08-12"
-draft: true
 menu:
   main:
-    weight: 10
+    weight: 90
+    name: Om
 ---
 
 Välkommen till Pionjärernas webplats.
@@ -23,4 +23,9 @@ Upptäckarna och Stigfinnarna är indelade i två avdelningar - en i Uppsala och
 
 Vi träffas normalt varje tisdag klockan 18:00. Vill du börja, eller har frågor så är det bara att [kontakta oss](mailto:pionjar.uppsala@gmail.com).
 
+<iframe src="https://services.cognitoforms.com/f/Pc_BlvCVZ0KvtrrWxwatIw?id=2" style="position:relative;width:1px;min-width:100%;*width:100%;" frameborder="0" scrolling="yes" seamless="seamless" height="411" width="100%"></iframe>
+<script src="https://services.cognitoforms.com/scripts/embed.js"></script>
+Tveka inte att kontakta oss med frågor och funderingar.
+
 ![start](/img/start-640.jpg)
+

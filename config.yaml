@@ -2,17 +2,30 @@ BaseURL: "http://pionjar.se"
 languageCode: "sv-se"
 title: "Pionjärerna"
 tagline: "Alltid redo för goda gärningar"
+theme: hugo-theme-html5
+MetaDataFormat: yaml
 params:
   onlyLogotype: true
-  logotype: "logotype_sv.svg"
+  logotype: "img/logotype-pionjar-normal-white.svg"
   footer: "copyright &copy; 2017 Pionjärerna"
+  CSS:
+    - "css/color.css"
+    - "css/text.css"
+    - "css/layout.css"
+    - "css/header.css"
+    - "css/footer.css"
+    - "css/image-body.css"
+    - "css/sublist.css"
+    - "css/menu.css"
+    - "css/image.css"
+  ListMode: "summary"
+  FrontPageMode: "full"
+  FrontPageSection: "start"
+  NavigationInHeader: false
+  Prefix:
+    - "og: http://opy.me/ns#"
+googleAnalytics: "UA-72875022-1"
 
-MetaDataFormat: "toml"
 blackfriday:
   extensions:
     - hardLineBreak
-menu:
-  main:
-    - name: "Aktuellt"
-      weight: 20
-      URL: "/aktuellt/"

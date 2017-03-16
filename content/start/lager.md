@@ -1,11 +1,14 @@
 ---
-title: ""
-date: "2017-03-02"
-weight: 10
-draft: false
+title: "Läger 2017"
+date: "2017-03-13"
+weight: 20
+image: "/start/lager/P1460653.jpg"
+class: "image-body"
 ---
-<a href="/lager/2017/">
-  <img src="/img/daltons.png" alt="Anmäl dig till lägret." ">
-</a>
+# Läger 2017
 
-Anmäl dig till lägret _[här](/lager/2017/)_.
+I år bär det av mot vilda västern. Vi garanterar ett oförglömligt äventyr.
+
+Utöver det så blir det även god mat, bad, lek och förvandlande gudsmöten.
+
+[Anmäl dig innan _sista mars_ för att få tidig-anmälan-rabatten.](/lager/2017/)
