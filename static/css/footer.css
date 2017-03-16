@@ -6,7 +6,7 @@ body > footer > nav {
 	margin-left: auto;
 	margin-right: auto;
 	width: 50em;
-	max-width: 90%;
+	max-width: 100%;
 	background: #262626;
 }
 body > footer > nav ul {

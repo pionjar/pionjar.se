@@ -23,7 +23,7 @@ body > main > article {
 body > main > article.fill > *,
 body > main > article:not(.fill) {
 	width: 40em;
-	max-width: 90%;
+	max-width: 100%;
 	margin-left: auto;
 	margin-right: auto;
 }
