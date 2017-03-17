@@ -16,7 +16,7 @@ html:not(.home) > body > header > h1 {
 }
 body > header {
 	width: 100%;
-	background-image: url(/start/banner/P1480016.jpg);
+	background-image: url(/img/P1480016.jpg);
 	background-size: cover;
 	background-position: calc(50% - 80px) 50%;
 }

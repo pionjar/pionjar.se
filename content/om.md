@@ -27,5 +27,5 @@ Vi träffas normalt varje tisdag klockan 18:00. Vill du börja, eller har frågo
 <script src="https://services.cognitoforms.com/scripts/embed.js"></script>
 Tveka inte att kontakta oss med frågor och funderingar.
 
-![start](/img/start-640.jpg)
+![start](/om/start-640.jpg)
 

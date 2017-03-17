@@ -6,7 +6,7 @@ menu:
   main:
     weight: 40
 ---
-![piratlager](/lager/affisch.jpg)
+![piratlager](/blogg/20160620-piratskatten/affisch.jpg)
 
 Årets Pionjärläger går av stapeln den 18-23 juni.
 
@@ -19,7 +19,5 @@ Alla som gått ut åk 4 är välkomna - även du som inte är med i Pionjärerna
 Vi kommer att sova i militärtält och laga mat över öppen eld.
 
 Lägret kostar 1200:- per deltagare som betalas vid lägrets början.
-
-**[Anmäl dig nu!](/lager/anmalan2016)**
 
 Har du frågor - tveka inte att [kontakta oss](/kontakt)
