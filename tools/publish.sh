@@ -1,11 +1,11 @@
 #!/bin/bash
-pushd pionjar.se
-git add .
-git commit -m "$1"
-git pull upstream master
+if [ ! -d "public/.git" ]; then
+	git clone --depth 1 --single-branch https://github.com/pionjar/pionjar.se -b gh-pages public
+fi
+rm -rf public/*
 hugo
-popd
 pushd public
+git add -A
+git commit -m "$1"
 git push -f
-
-#Kolla så det funkar med att pusha public-mappen manuellt till gh-pages
+popd
