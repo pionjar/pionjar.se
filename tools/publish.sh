@@ -1,6 +1,11 @@
 #!/bin/bash
-pushd pionjar.se
+if [ ! -d "public/.git" ]; then
+	git clone --depth 1 --single-branch https://github.com/pionjar/pionjar.se -b gh-pages public
+fi
+rm -rf public/*
+hugo
+pushd public
 git add -A
 git commit -m "$1"
-git pull upstream master
-git push origin master
+git push -f
+popd
