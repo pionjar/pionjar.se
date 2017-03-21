@@ -17,7 +17,7 @@ params:
     - "css/image-body.css"
     - "css/sublist.css"
     - "css/menu.css"
-    - "css/image.css"
+    - "css/gallery.css"
   ListMode: "summary"
   FrontPageMode: "full"
   FrontPageSection: "start"

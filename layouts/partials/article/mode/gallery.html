@@ -1,0 +1,18 @@
+{{ partial "article/part/header" . }}
+{{ partial "article/part/toc" . }}
+{{ partial "article/part/aside" . }}
+{{ partial "article/part/content" . }}
+				<section class="gallery" itemsscope itemtype="http://schema.org/ImageGallery">
+{{ $path := substr .File.Path 0 -3 }}
+{{ range readDir (printf "content/%s" $path) }}
+{{ if in .Name ".original.jpg" }}
+{{ else if in .Name ".jpg" }}
+					<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+						<a href="/{{ $path }}/{{ substr .Name 0 -4 }}.original.jpg" itemprop="contentUrl">
+							<img src="/{{ $path }}/{{ .Name }}">
+						</a>
+					<figure>
+{{ end }}
+{{ end }}
+				</section>
+{{ partial "article/part/footer" . }}

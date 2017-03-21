@@ -54,9 +54,3 @@ iframe {
 body > main.single > article > aside {
 	display: none;
 }
-
-/* img */
-body > main > article > main > p > img {
-	width: calc(100% + 2rem);
-	margin-left: -1rem;
-}
