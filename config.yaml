@@ -15,6 +15,7 @@ params:
     - "css/header.css"
     - "css/footer.css"
     - "css/image-body.css"
+    - "css/list.css"
     - "css/sublist.css"
     - "css/menu.css"
     - "css/gallery.css"
