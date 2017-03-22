@@ -4,6 +4,7 @@ date: "2017-03-13"
 weight: 20
 image: "/start/lager/P1460653.jpg"
 class: "image-body"
+link: /lager/2017/
 ---
 # Läger 2017
 

@@ -4,6 +4,7 @@ date: "2017-03-13"
 weight: 70
 image: "./start/om/P1470963.jpg"
 class: "image-body"
+link: /om/
 ---
 # Om Pionjärerna
 

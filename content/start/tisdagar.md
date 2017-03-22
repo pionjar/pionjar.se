@@ -4,6 +4,7 @@ date: "2017-03-13"
 weight: 40
 image: "./start/tisdagar/P1470842.jpg"
 class: "image-body"
+link: /tisdagar/
 ---
 # Tisdagar
 

@@ -11,13 +11,15 @@ html:not(.home) > body > main.list > article > header > p {
 html:not(.home) > body > main.list > article > header > p > span {
 	display: none;
 }
-/* self-link */
+/* link & self-link */
 body > main.list > article {
 	position: relative;
 }
+body > main.list > article > .link,
 body > main.list > article > .self-link {
 	padding: 0;
 }
+body > main.list > article > .link > a > span,
 body > main.list > article > .self-link > a > span {
 	position: absolute;
 	width: 100%;
