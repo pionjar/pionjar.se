@@ -1,0 +1,4 @@
+/* img */
+section.gallery > figure img {
+	width: 100%;
+}

@@ -1,5 +1,6 @@
 BaseURL: "http://pionjar.se/"
 languageCode: "sv-se"
+DefaultContentLanguage: "en"
 title: "Pionjärerna"
 tagline: "Alltid redo för goda gärningar"
 theme: hugo-theme-html5
@@ -15,9 +16,10 @@ params:
     - "css/header.css"
     - "css/footer.css"
     - "css/image-body.css"
+    - "css/list.css"
     - "css/sublist.css"
     - "css/menu.css"
-    - "css/image.css"
+    - "css/gallery.css"
   ListMode: "summary"
   FrontPageMode: "full"
   FrontPageSection: "start"
@@ -25,7 +27,16 @@ params:
   Prefix:
     - "og: http://opy.me/ns#"
 googleAnalytics: "UA-72875022-1"
-
+PluralizeListTitles: false
 blackfriday:
   extensions:
     - hardLineBreak
+
+menu:
+  main:
+    - name: "Blogg"
+      weight: 60
+      URL: "/blogg/"
+    - name: "Bilder"
+      weight: 70
+      URL: "/bilder/"
