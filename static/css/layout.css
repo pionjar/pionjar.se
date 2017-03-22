@@ -67,6 +67,7 @@ html:not(.home) > body > main > article > .self-link {
 	clear: both;
 }
 /* img */
+html:not(.home) > body > main > article > main > p > iframe,
 html:not(.home) > body > main > article > main > p > img {
 	width: calc(100% + 2rem);
 	margin-left: -1rem;
