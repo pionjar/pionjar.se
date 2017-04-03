@@ -12,14 +12,14 @@ body {
 	white-space: wrap
 }
 @media only screen {
-	em {
+	em, strong {
 		font-weight: 600;
 		font-style: normal;
 	}
 }
 a {
 	color: inherit;
-	text-decoration: none;
+	text-decoration: underline;
 }
 a:hover {
 	text-decoration: underline;
