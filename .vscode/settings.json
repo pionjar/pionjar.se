@@ -10,5 +10,15 @@
 	"editor.detectIndentation": false,
 
 	// When enabled, will trim trailing whitespace when you save a file.
-	"files.trimTrailingWhitespace": true
+	"files.trimTrailingWhitespace": true,
+	"spellchecker.language": "sv_SE",
+	"spellchecker.ignoreWordsList": [],
+	"spellchecker.documentTypes": [
+		"markdown",
+		"plaintext",
+		"latex"
+	],
+	"spellchecker.ignoreRegExp": [],
+	"spellchecker.ignoreFileExtensions": [],
+	"spellchecker.checkInterval": 5000
 }
