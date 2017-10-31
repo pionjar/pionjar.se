@@ -5,6 +5,7 @@ weight: 20
 image: "/start/blogg-temp/img3555.jpg"
 class: "image-body"
 link: /blogg/20170907-hosthajk
+draft: true
 ---
 # Hösthajk
 
