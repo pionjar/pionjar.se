@@ -1,16 +1,14 @@
 ---
-title: "Läger 2017"
-date: "2017-03-13"
+title: "Läger 2018"
+date: "2017-10-31"
 weight: 20
-image: "/start/lager/P1460653.jpg"
+image: "/lager/bad-issjo.jpg"
 class: "image-body"
-link: /lager/2017/
-draft: true
+link: /lager/2018/
+draft: false
 ---
-# Läger 2017
+# Läger 2018
 
-I år bär det av mot vilda västern. Vi garanterar ett oförglömligt äventyr.
+På Pionjärlägret sover du i tält med dina kompisar, lagar god mat över öppen eld, badar, upplever spännande äventyr, löser kluriga uppgifter och testar roliga utmaningar.
 
-Utöver det så blir det även god mat, bad, lek och förvandlande gudsmöten.
-
-[Missa inte lägret, anmäl dig nu.](/lager/2017/)
+[Klicka här för mer information.](/lager/2018/)
