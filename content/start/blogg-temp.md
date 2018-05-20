@@ -1,14 +1,14 @@
 ---
-title: "Hösthajk"
-date: "2017-08-27"
+title: "Kanothajk"
+date: "2018-05-20"
 weight: 20
-image: "/start/blogg-temp/img3555.jpg"
+image: "/start/blogg-temp/kanot.jpg"
 class: "image-body"
-link: /blogg/20170907-hosthajk
-draft: true
+link: /blogg/20180520-kanothajkinfo
+draft: false
 ---
-# Hösthajk
+# Kanothajk
 
-Helgen 15-17 september drar vi ut på vår årliga hösthajk! Det blir ett roligt äventyr ute i Hammarskog som du inte vill missa.
+Helgen 25-27 maj är det kanothajk! Ett äventyr du inte vill missa!
 
 Mer information hittar du **här**.
