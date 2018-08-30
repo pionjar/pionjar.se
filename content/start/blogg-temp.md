@@ -2,7 +2,7 @@
 title: "Alltid Redo"
 date: "2018-08-30"
 weight: 20
-image: "/content/om/start.jpg"
+image: "/start/blogg-temp/start.jpg"
 class: "image-body"
 link: /tisdagar/
 draft: false
