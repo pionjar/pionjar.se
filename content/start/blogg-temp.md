@@ -1,14 +1,13 @@
 ---
-title: "Kanothajk"
-date: "2018-05-20"
+title: "Alltid Redo"
+date: "2018-08-30"
 weight: 20
-image: "/start/blogg-temp/kanot.jpg"
+image: "/content/om/start.jpg"
 class: "image-body"
-link: /blogg/20180520-kanothajkinfo
-draft: true
+link: /tisdagar/
+draft: false
 ---
-# Kanothajk
+# Höstupptakt
 
-Helgen 25-27 maj är det kanothajk! Ett äventyr du inte vill missa!
-
-Mer information hittar du **här**.
+Nu drar Pionjärerna igång med fullt drag hela hösten. Missa inte paddling den 11 september och höstens första hajk den 14-16 september!
+Klicka här för att se höstens schema.
