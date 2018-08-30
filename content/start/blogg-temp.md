@@ -5,7 +5,7 @@ weight: 20
 image: "/start/blogg-temp/kanot.jpg"
 class: "image-body"
 link: /blogg/20180520-kanothajkinfo
-draft: false
+draft: true
 ---
 # Kanothajk
 
