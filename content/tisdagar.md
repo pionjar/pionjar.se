@@ -12,6 +12,7 @@ menu:
 
 - [Upptäckare](/tisdagar/2018-t2-ut.pdf) (årskurs 4 och 5)
 - [Stigfinnare & Äventyrare](/tisdagar/2018-t2-sfat.pdf) (årskurs 6 -9)
+- [Hösthajk](/tisdagar/2018-hosthajk1.pdf)
 
 ## Storvreta
 Vi välkomnar alla Storvreta-Pionjärer till verksamheten inne i Uppsala.
