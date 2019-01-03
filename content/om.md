@@ -19,7 +19,7 @@ Vår Uppsala-kår är indelad i tre åldersgrupper:
 * Stigfinnarna (åk 6-7)
 * Äventyrarna (åk 8-9)
 
-Upptäckarna och Stigfinnarna är indelade i två avdelningar - en i Uppsala och en i Storvreta.
+<!-- Upptäckarna och Stigfinnarna är indelade i två avdelningar - en i Uppsala och en i Storvreta. -->
 
 Vi träffas normalt varje tisdag klockan 18:00. Vill du börja, eller har frågor så är det bara att använda formuläret här nedan.
 
@@ -28,4 +28,3 @@ Vi träffas normalt varje tisdag klockan 18:00. Vill du börja, eller har frågo
 Tveka inte att kontakta oss med frågor och funderingar.
 
 ![start](/om/start-640.jpg)
-
