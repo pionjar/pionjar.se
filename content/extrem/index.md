@@ -8,7 +8,7 @@ menu:
 ---
 
 ## Vad?
-Liksom en vanlig spårning är en extremspårning ett evenemang där man i grupp tar sig fram mellan ett antal stationer där man löser olika uppgifter. Det som särkskiljer en extremspårning är både uppgifternas svårighetsgrad liksom sträckningens längd och svårighet.
+Liksom en vanlig spårning är en extremspårning ett evenemang där man i grupp tar sig fram mellan ett antal stationer där man löser olika uppgifter. Det som särskiljer en extremspårning är både uppgifternas svårighetsgrad liksom sträckningens längd och svårighet.
 
 ## Vem?
 Då en extremspårning är något utöver det vanliga så riktar vi oss främst mot _vuxna deltagare_ men deltagare från 15 års ålder har möjlighet att delta.
