@@ -1,13 +1,14 @@
 ---
 title: "Alltid Redo"
-date: "2018-08-30"
+date: "2019-01-08"
 weight: 20
 image: "/start/blogg-temp/start.jpg"
 class: "image-body"
 link: /tisdagar/
 draft: true
 ---
-# Höstupptakt
+# Vårupptakt
 
-Nu drar Pionjärerna igång med fullt drag hela hösten. Missa inte paddling den 11 september och höstens första hajk den 14-16 september!
-Klicka här för att se höstens schema.
+Den 22:a januari drar Pionjärerna igång vid Brunnspaviljongen med fullt drag hela våren.
+
+Schemat kommer upp kring den 20:e.
