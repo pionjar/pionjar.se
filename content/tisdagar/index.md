@@ -1,7 +1,7 @@
 ---
 title: "Tisdagar"
 description: "Aktuella scheman och platser."
-date: "2017-03-16"
+date: "2018-08-30"
 menu:
   main:
     weight: 30
@@ -10,8 +10,9 @@ menu:
 
 ## Uppsala
 
-- [Upptäckare](/tisdagar/2018-t1-ut.pdf) (årskurs 4 och 5)
-- [Stigfinnare & Äventyrare](/tisdagar/2018-t1-sfat.pdf) (årskurs 6 -9)
+- [Upptäckare](/tisdagar/2018-t2-ut.pdf) (årskurs 4 och 5)
+- [Stigfinnare & Äventyrare](/tisdagar/2018-t2-sfat.pdf) (årskurs 6 -9)
+- [Hösthajk](/tisdagar/2018-hosthajk1.pdf)
 
 ## Storvreta
 Vi välkomnar alla Storvreta-Pionjärer till verksamheten inne i Uppsala.

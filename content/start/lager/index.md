@@ -5,7 +5,7 @@ weight: 20
 image: "/lager/bad-issjo.jpg"
 class: "image-body"
 link: /lager/2018/
-draft: false
+draft: true
 ---
 # Läger 2018
 
