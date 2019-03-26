@@ -17,6 +17,10 @@ menu:
 ## Storvreta
 Vi välkomnar alla Storvreta-Pionjärer till verksamheten inne i Uppsala.
 
+# Information
+## Knopar
+[Övningshäfte](/tisdagar/knophafte.pdf)
+
 # Platser
 
 ## Brunnspaviljongen
