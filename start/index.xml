@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Start on Pionjärerna</title>
+    <link>//pionjar.se/start/</link>
+    <description>Recent content in Start on Pionjärerna</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>sv-se</language>
+    <lastBuildDate>Tue, 08 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="//pionjar.se/start/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Alltid Redo</title>
+      <link>//pionjar.se/start/blogg-temp/</link>
+      <pubDate>Tue, 08 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>//pionjar.se/start/blogg-temp/</guid>
+      <description>Vårupptakt Den 22:a januari drar Pionjärerna igång vid Brunnspaviljongen med fullt drag hela våren.
+Schemat finns här</description>
+    </item>
+    
+    <item>
+      <title>Instagram</title>
+      <link>//pionjar.se/start/insta/</link>
+      <pubDate>Mon, 04 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>//pionjar.se/start/insta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tisdagar</title>
+      <link>//pionjar.se/start/tisdagar/</link>
+      <pubDate>Mon, 13 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>//pionjar.se/start/tisdagar/</guid>
+      <description>Tisdagar Vi träffas normalt varje tisdag under skolterminerna.
+Vi eldar, lagar mat, leker lekar och lär oss en massa roliga och nyttiga saker.
+Vi är nästan alltid ute, så klä dig därefter.
+Alla från årskurs fyra och uppåt är välkomna.
+Ladda ner vårt schema här:
+- Upptäckare (årskurs 4 - 5)
+- Stigfinnare &amp;amp; Äventyrare (årskurs 6 - 9)</description>
+    </item>
+    
+    <item>
+      <title>Bilder</title>
+      <link>//pionjar.se/start/bilder/</link>
+      <pubDate>Fri, 14 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>//pionjar.se/start/bilder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//pionjar.se/start/banner/</link>
+      <pubDate>Wed, 12 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>//pionjar.se/start/banner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Om Pionjärerna</title>
+      <link>//pionjar.se/start/om/</link>
+      <pubDate>Mon, 13 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>//pionjar.se/start/om/</guid>
+      <description>Om Pionjärerna Pionjärerna är ett kristet barn- och ungdomsarbete inriktat mot friluftsliv och klassisk scouting.
+Vår Uppsala-kår är indelad i tre åldersgrupper:
+ Upptäckarna (åk 4-5)
+ Stigfinnarna (åk 6-7)
+ Äventyrarna (åk 8-9)
+  Vi träffas normalt varje tisdag klockan 18:00. Vill du börja, eller har frågor så är det bara att kontakta oss.</description>
+    </item>
+    
+    <item>
+      <title>Hitta oss</title>
+      <link>//pionjar.se/start/plats/</link>
+      <pubDate>Thu, 02 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>//pionjar.se/start/plats/</guid>
+      <description>--
+View Larger Map--
+View Larger Map -- </description>
+    </item>
+    
+  </channel>
+</rss>

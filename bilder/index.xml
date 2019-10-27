@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bilder on Pionjärerna</title>
+    <link>//pionjar.se/bilder/</link>
+    <description>Recent content in Bilder on Pionjärerna</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>sv-se</language>
+    <lastBuildDate>Fri, 27 May 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="//pionjar.se/bilder/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kanothajk</title>
+      <link>//pionjar.se/bilder/20160527-kanothajk/</link>
+      <pubDate>Fri, 27 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>//pionjar.se/bilder/20160527-kanothajk/</guid>
+      <description>Bilder från kanothajken våren 2016.</description>
+    </item>
+    
+    <item>
+      <title>Hösthajk</title>
+      <link>//pionjar.se/bilder/2016-hosthajk/</link>
+      <pubDate>Mon, 26 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>//pionjar.se/bilder/2016-hosthajk/</guid>
+      <description>Bilder från hösthajken 2016.</description>
+    </item>
+    
+  </channel>
+</rss>

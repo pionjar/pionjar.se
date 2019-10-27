@@ -1,0 +1,39 @@
+body > nav {
+	display: none;
+}
+nav ul {
+	text-transform: lowercase;
+	list-style-type: none;
+	padding-left: inherit;
+}
+
+body > nav {
+	width: 100%;
+	background: #363636;
+	border-bottom: 2px solid #e32500;
+}
+body > nav {
+	margin-left: auto;
+	margin-right: auto;
+}
+body > nav ul {
+	width: 100%;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 0.4em 0;
+}
+body > nav li {
+	display: inline;
+	font-size: 1.0em;
+	line-height: 2em;
+	font-weight: 600;
+}
+body > nav a {
+	padding: 0.2em;
+}
+body > nav a:hover {
+	text-decoration: none;
+	color: black;
+	background: white;
+}

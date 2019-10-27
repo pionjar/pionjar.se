@@ -1,0 +1,52 @@
+@media screen and (min-width: 640px) {
+	body > main > article.mode-list > article {
+		width: 50%;
+		margin-right: -0.5ex;
+	}
+}
+body > main > article.mode-list > article {
+	display: inline-block;
+	position: relative;
+	vertical-align: middle;
+}
+body > main > article.mode-list > article > header {
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	text-align: center;
+	background: rgba(50, 50, 50, 0.3);
+}
+body > main > article.mode-list > article:hover > header {
+	background: rgba(50, 50, 50, 0.6);
+}
+body > main > article.mode-list > article > header > h1 {
+	display: inline-block;
+	font-size: 1.8em;
+	font-weight: 600;
+	vertical-align: middle;
+	position: relative;
+	top: 30%;
+	left: 0;
+}
+body > main > article.mode-list > article > aside > img {
+	display: block;
+	width: 100%;
+	height: auto;
+}
+body > main > article.mode-list > article {
+	position: relative;
+}
+body > main > article.mode-list > article > .self-link {
+	padding: 0;
+}
+body > main > article.mode-list > article > .self-link > a > span {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	z-index: 1;
+	background-image: url('transparent.gif');
+}
