@@ -8,7 +8,7 @@ MetaDataFormat: yaml
 params:
   onlyLogotype: true
   logotype: "img/logotype-pionjar-normal-white.svg"
-  footer: "copyright &copy; 2017 Pionjärerna"
+  footer: "copyright &copy; 2017-2020 Pionjärerna"
   CSS:
     - "css/color.css"
     - "css/text.css"

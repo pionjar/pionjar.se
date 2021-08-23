@@ -1,9 +1,9 @@
-# Pionjärernas hemsida, originalfilerna
+# Pionjärernas hemsida
 
 ## Hur man gör ändringar
 
- 1. Skaffa ett konto på Github (rekomenderar att använda förnamnefternamn).
- 2. Gör en [fork](https://github.com/pionjar/pionjar.se-original/fork) av detta repository.
+ 1. Skaffa ett konto på [Github](https://github.com) (rekomenderar att använda förnamnefternamn).
+ 2. Gör en [fork](https://github.com/pionjar/pionjar.se/fork) av detta repository.
  3. Gör ändringar på innehållet. Själva texten finns i content mappen.
  4. Gör en pull-request.
 
