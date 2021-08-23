@@ -1,154 +1,90 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>//pionjar.se/start/blogg-temp/</loc>
     <lastmod>2019-01-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//pionjar.se/start/insta/</loc>
     <lastmod>2017-09-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//pionjar.se/start/tisdagar/</loc>
     <lastmod>2017-03-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//pionjar.se/bilder/20160527-kanothajk/</loc>
     <lastmod>2016-05-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//pionjar.se/bilder/2016-hosthajk/</loc>
     <lastmod>2016-09-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//pionjar.se/start/bilder/</loc>
     <lastmod>2014-03-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//pionjar.se/start/banner/</loc>
     <lastmod>2014-03-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//pionjar.se/start/om/</loc>
     <lastmod>2017-03-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//pionjar.se/start/plats/</loc>
     <lastmod>2017-03-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//pionjar.se/extrem/</loc>
-    <lastmod>2019-01-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//pionjar.se/tisdagar/</loc>
-    <lastmod>2018-08-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//pionjar.se/blogg/20180520-kanothajkinfo/</loc>
-    <lastmod>2018-05-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//pionjar.se/blogg/20170907-hosthajk/</loc>
-    <lastmod>2017-09-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//pionjar.se/blogg/20170120-vinterhajk/</loc>
-    <lastmod>2017-01-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//pionjar.se/blogg/20170117-pulka/</loc>
-    <lastmod>2017-01-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//pionjar.se/blogg/20160723-euk/</loc>
-    <lastmod>2016-07-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//pionjar.se/blogg/20160527-kanothajk/</loc>
-    <lastmod>2016-05-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//pionjar.se/blogg/20160214-vinterhajk/</loc>
-    <lastmod>2016-02-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//pionjar.se/blogg/20160125-vt-borjar/</loc>
-    <lastmod>2016-01-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//pionjar.se/blogg/20151020-hostlov/</loc>
-    <lastmod>2015-10-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//pionjar.se/blogg/20150824-ht-borjar/</loc>
-    <lastmod>2015-08-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//pionjar.se/test/</loc>
-    <lastmod>2014-08-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//pionjar.se/om/</loc>
-    <lastmod>2014-08-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//pionjar.se/bilder/</loc>
-    <lastmod>2016-05-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>//pionjar.se/blogg/</loc>
-    <lastmod>2018-05-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>//pionjar.se/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//pionjar.se/</loc>
     <lastmod>2019-01-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//pionjar.se/start/</loc>
     <lastmod>2019-01-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>//pionjar.se/extrem/</loc>
+    <lastmod>2019-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//pionjar.se/tisdagar/</loc>
+    <lastmod>2018-08-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//pionjar.se/blogg/</loc>
+    <lastmod>2018-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//pionjar.se/blogg/20180520-kanothajkinfo/</loc>
+    <lastmod>2018-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//pionjar.se/blogg/20170907-hosthajk/</loc>
+    <lastmod>2017-09-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//pionjar.se/blogg/20170120-vinterhajk/</loc>
+    <lastmod>2017-01-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//pionjar.se/blogg/20170117-pulka/</loc>
+    <lastmod>2017-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//pionjar.se/bilder/</loc>
+    <lastmod>2016-09-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//pionjar.se/blogg/20160723-euk/</loc>
+    <lastmod>2016-07-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//pionjar.se/blogg/20160527-kanothajk/</loc>
+    <lastmod>2016-05-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//pionjar.se/blogg/20160214-vinterhajk/</loc>
+    <lastmod>2016-02-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//pionjar.se/blogg/20160125-vt-borjar/</loc>
+    <lastmod>2016-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//pionjar.se/blogg/20151020-hostlov/</loc>
+    <lastmod>2015-10-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//pionjar.se/blogg/20150824-ht-borjar/</loc>
+    <lastmod>2015-08-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//pionjar.se/test/</loc>
+    <lastmod>2014-08-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//pionjar.se/om/</loc>
+    <lastmod>2014-08-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//pionjar.se/categories/</loc>
+  </url><url>
     <loc>//pionjar.se/tags/</loc>
-    <priority>0</priority>
   </url>
-  
 </urlset>

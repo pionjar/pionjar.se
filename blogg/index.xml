@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogg on Pionjärerna</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Blogg on Pionjärerna</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv-se</language>
-    <lastBuildDate>Sun, 20 May 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="//pionjar.se/blogg/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 20 May 2018 00:00:00 +0000</lastBuildDate><atom:link href="//pionjar.se/blogg/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kanothajk</title>
       <link>//pionjar.se/blogg/20180520-kanothajkinfo/</link>
@@ -21,8 +17,7 @@
 Vi kommer paddla i en sjö som heter Vällen och sedan följa Kolarmoraån genom ett fantastiskt grönskande landskap.
 Anmäl dig senast tisdag 22 maj.
 Mer information, anmälan och packlista hittar du här på hajklappen.
-Nedan kan du bläddra igenom bilderna från förra kanothajken.
- </description>
+Nedan kan du bläddra igenom bilderna från förra kanothajken.</description>
     </item>
     
     <item>
@@ -86,7 +81,6 @@ Vårens scheman hittar ni här.</description>
       <guid>//pionjar.se/blogg/20160214-vinterhajk/</guid>
       <description>För ett par veckor sedan var det dags för den årliga vinterhajken.
 I år lös snön med sin frånvaro, men isen låg blank och fin i blåsten så vi passade på att ta en långpromenad på det glatta underlaget.
-
 Lördagen avlutades med vedeldad bastu och badtunna.
 Allt som allt en lyckad hajk i den milda vintern.</description>
     </item>
@@ -118,13 +112,9 @@ Här hittar du vårens schema</description>
       <pubDate>Mon, 24 Aug 2015 00:00:00 +0000</pubDate>
       
       <guid>//pionjar.se/blogg/20150824-ht-borjar/</guid>
-      <description>Hösterminen börjar tisdag den 1:a september klockan 18:00. I Uppsala träffas vi vid Brunnspaviljongen och i Storvreta vid Tipptoppen.
-Pionjärerna har verksamhet för dig från årskurs 4.
+      <description>Hösterminen börjar tisdag den 1:a september klockan 18:00. I Uppsala träffas vi vid Brunnspaviljongen och i Storvreta vid Tipptoppen. Pionjärerna har verksamhet för dig från årskurs 4.
 Som Pionjär lär man sig bland annat:
- vistas i skog och mark
- använda kniv, yxa och såg på ett säkert sätt
- bygga vindskydd och lägerkök med hjälp av knopar och surrningar
- elda och laga mat under olika förutsättningar i alla väder</description>
+ vistas i skog och mark använda kniv, yxa och såg på ett säkert sätt bygga vindskydd och lägerkök med hjälp av knopar och surrningar elda och laga mat under olika förutsättningar i alla väder finna sig väg genom terrängen med hjälp av karta och kompass första hjälpen och enklare sjukvård  Vi samlas på tisdagar och är nästan alltid utomhus.</description>
     </item>
     
   </channel>
