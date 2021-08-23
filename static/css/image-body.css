@@ -35,6 +35,6 @@ body > main > article.image-body > aside > img {
 		vertical-align: middle;
 	}
 	body > main > article.image-body > aside {
-		width: 50%;
+		width: calc(50% - .5px);
 	}
 }
