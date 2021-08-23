@@ -4,7 +4,7 @@
 {{ partial "article/part/content" . }}
 				<section class="gallery" itemsscope itemtype="http://schema.org/ImageGallery">
 {{ $path := substr .File.Path 0 -3 }}
-{{ if (path.Base $path) index }}
+{{ if (strings.HasSuffix $path "index") }}
 {{ $path = path.Dir $path }}
 {{ end }}
 {{ range readDir (printf "content/%s" $path) }}
