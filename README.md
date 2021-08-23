@@ -9,4 +9,4 @@
 
 ## Avancerat
 
-Ifall du vill göra mer avancerade saker bör du testa att använda [hugo](http://hugo.spf13.com) för att själv generera om sidorna och kunna förhandsgranska det du gör.
+Ifall du vill göra mer avancerade saker bör du testa att använda [hugo](http://gohugo.io) för att själv generera om sidorna och kunna förhandsgranska det du gör.
