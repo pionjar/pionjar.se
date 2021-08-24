@@ -31,10 +31,10 @@ body > main > article.image-body > aside > img {
 	}
 	body > main > article.image-body > main {
 		display: inline-block;
-		width: 50%;
+		width: calc(50% - 1px);
 		vertical-align: middle;
 	}
 	body > main > article.image-body > aside {
-		width: 50%;
+		width: calc(50% - 1px);
 	}
 }
