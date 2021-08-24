@@ -8,14 +8,12 @@ link: /tisdagar/
 ---
 # Tisdagar
 
-Vi träffas normalt varje tisdag under skolterminerna.
+Pionjärerna träffas normalt varje tisdag under skolterminerna.
 
-Vi eldar, lagar mat, leker lekar och lär oss en massa roliga och nyttiga saker.
+Vi eldar, lagar mat, leker och lär oss en massa roliga och nyttiga saker.
 
-Vi är nästan alltid ute, så klä dig därefter.
+Som scouter är vi nästan alltid ute, så klä dig efter väder.
 
-Alla från årskurs fyra och uppåt är välkomna.
+Alla från årskurs 2 och uppåt är välkomna.
 
-Ladda ner vårt schema här:
-- [Upptäckare](/tisdagar/2017-t1-ut.pdf) (årskurs 4 - 5)
-- [Stigfinnare & Äventyrare](/tisdagar/2017-t1-sfat.pdf) (årskurs 6 - 9)
+Klicka [här](/tisdagar) för terminens schema och mer information
