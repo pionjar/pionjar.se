@@ -26,10 +26,9 @@ Vi behöver fler ledare. Har du som vuxen ett hjärta för barn och gillar frilu
 
 Vill du börja, eller har frågor så är det bara att använda formuläret här nedan.
 
-<!--<iframe src="https://www.cognitoforms.com/f/Pc_BlvCVZ0KvtrrWxwatIw?id=2" frameborder="0" scrolling="yes" seamless="seamless"></iframe>
-<script src="https://www.cognitoforms.com/scripts/embed.js"></script>-->
 <iframe src="https://www.cognitoforms.com/f/Pc_BlvCVZ0KvtrrWxwatIw?id=2" style="position:relative;width:1px;min-width:100%;*width:100%;" frameborder="0" scrolling="yes" seamless="seamless" height="492" width="100%"></iframe>
 <script src="https://www.cognitoforms.com/scripts/embed.js"></script>
+
 Tveka inte att kontakta oss med frågor och funderingar.
 
 ![start](/om/start-640.jpg)
