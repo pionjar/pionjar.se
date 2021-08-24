@@ -8,14 +8,15 @@ link: /om/
 ---
 # Om Pionjärerna
 
-Pionjärerna är ett kristet barn- och ungdomsarbete inriktat mot friluftsliv och klassisk scouting.
+Pionjärerna är en Scoutkår inriktad mot friluftsliv. Vi gör klassisk scouting på kristen grund.
 
-Vår Uppsala-kår är indelad i tre åldersgrupper:
+Vi har verksamhet för alla åldrar, men vi lägger mer fokus på dessa åldersgrupper i nuläget:
 
-* Upptäckarna (åk 4-5)
-* Stigfinnarna (åk 6-7)
-* Äventyrarna (åk 8-9)
+* Spårare (åk 2-3)
+* Upptäckare (åk 4-5)
 
-<!--Upptäckarna och även Stigfinnarna är indelade i två avdelningar - en i Uppsala och en i Storvreta.-->
+Är du äldre än så får du gärna kontakta oss så ser vi till att just du får den bästa scout-upplevelsen.
 
-Vi träffas normalt varje tisdag klockan 18:00. Vill du börja, eller har frågor så är det bara att [kontakta oss](/kontakt).
+Pionjärerna träffas normalt varje tisdag klockan 18:00.
+
+Vi behöver fler ledare. Har du som vuxen ett hjärta för barn och gillar friluftsliv? Hör av dig så berättar vi mer.
