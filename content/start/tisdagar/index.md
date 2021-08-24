@@ -16,4 +16,4 @@ Som scouter är vi nästan alltid ute, så klä dig efter väder.
 
 Alla från årskurs 2 och uppåt är välkomna.
 
-Klicka [här](/tisdagar)för terminens schema och mer information
+Klicka [här](/tisdagar) för terminens schema och mer information
