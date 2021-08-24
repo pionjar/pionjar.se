@@ -24,6 +24,7 @@ menu:
 ### Bil
 
 Bästa stället att hämta och lämna barnen är vid Brunnspaviljongen där förskolan DaVinci är inrymd.
+Om du vill ha bilen parkerad under scoutmötet rekommenderar vi grusplanen vid rondellen på Polacksbacken.
 
 ### Kollektivtrafik (ej uppdaterat på ett tag)
 De närmaste busshållplatserna är:
