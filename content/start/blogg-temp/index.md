@@ -7,8 +7,8 @@ class: "image-body"
 link: /tisdagar/
 draft: false
 ---
-# Vårupptakt
+# Prova på scouting
 
-Den 22:a januari drar Pionjärerna igång vid Brunnspaviljongen med fullt drag hela våren.
+Den 24:e augusti är höstens första prova-på-möte. Vi har scoutmöte varje tisdag kl 18.00-19.30
 
-Schemat finns [här](/tisdagar/)
+Klicka [här](/tisdagar/) för mer information.
