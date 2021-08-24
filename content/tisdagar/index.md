@@ -19,21 +19,20 @@ menu:
 # Platser
 
 ## Brunnspaviljongen
-
-<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=17.631665508592555%2C59.83782771221416%2C17.665890495622584%2C59.84935102439714&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=16/59.8436/17.6488">Visa större karta</a></small>
+<iframe style="display: block; padding: 0; width: 100%; height: 350px" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=17.625567913055423%2C59.83777534471274%2C17.66732454299927%2C59.84929867502033&amp;layer=mapnik&amp;marker=59.84353057849807%2C17.64645207054889" style="border: 1px solid black"></iframe>
 
 ### Bil
 
 Bästa stället att hämta och lämna barnen är vid Brunnspaviljongen där förskolan DaVinci är inrymd.
 
-### Kollektivtrafik (kan vara inaktuell)
+### Kollektivtrafik (ej uppdaterat på ett tag)
 De närmaste busshållplatserna är:
 - Polacksbacken (4, 12)
 - Uppsala Science Park (1, 3, 4, 8, 11, 12, 100, 101, 107, 188)
 - Akademiska Södra (3, 4, 8, 30, 100, 101, 107, 188)
 
 ### Cykel
-Det går naturligtvis även utmärkt att cykla. Glöm inte cykelljus.
+Det går naturligtvis även utmärkt att cykla. Glöm inte hjälm och cykelljus.
 
 <!--
 ## Tipptoppen
