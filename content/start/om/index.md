@@ -10,13 +10,13 @@ link: /om/
 
 Pionjärerna är en Scoutkår inriktad mot friluftsliv. Vi gör klassisk scouting på kristen grund.
 
-Vi har verksamhet för alla åldrar, men vi lägger mer fokus på dessa åldersgrupper i nuläget:
+Vi har verksamhet för alla åldrar. Den finns spikat schema för åk 2-5.
 
 * Spårare (åk 2-3)
 * Upptäckare (åk 4-5)
 
-Är du äldre än så får du gärna kontakta oss så ser vi till att just du får den bästa scout-upplevelsen.
+Du som är äldre än så får vara med och bestämma schemat för din åldersgrupp.
 
 Pionjärerna träffas normalt varje tisdag klockan 18:00.
 
-Vi behöver fler ledare. Har du som vuxen ett hjärta för barn och gillar friluftsliv? Hör av dig så berättar vi mer.
+Vi vill bli fler ledare. Har du som vuxen ett hjärta för barn och gillar friluftsliv? Hör av dig så berättar vi mer.
