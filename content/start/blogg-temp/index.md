@@ -9,6 +9,6 @@ draft: false
 ---
 # Prova på scouting
 
-Den 24:e augusti är höstens första prova-på-möte. Vi har scoutmöte varje tisdag kl 18.00-19.30
+Den 7:e september är höstens tredje prova-på-möte. Vi har scoutmöte varje tisdag kl 18.00-19.30
 
-Klicka [här](/tisdagar/) för mer information.
+Klicka [här](/tisdagar/) för mer information, scheman och inbjudan till hösthajken.
