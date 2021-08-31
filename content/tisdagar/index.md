@@ -10,7 +10,8 @@ menu:
 
 - [Spårare](/tisdagar/2021-t2-spar.pdf) (årskurs 2-3)
 - [Upptäckare](/tisdagar/2021-t2-uppt.pdf) (årskurs 4-5)
-<!--- [Hösthajk](/tisdagar/2018-hosthajk1.pdf)-->
+
+[Hösthajk](/tisdagar/hosthajk-2021-infolapp.pdf)
 
 # Information
 ## Knopar
