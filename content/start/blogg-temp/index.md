@@ -4,11 +4,10 @@ date: "2019-01-08"
 weight: 20
 image: "/start/blogg-temp/start.jpg"
 class: "image-body"
-link: /tisdagar/
+link: /bli-scout/
 draft: false
 ---
-# Prova på scouting
+# Bli scout
 
-Den 7:e september är höstens tredje prova-på-möte. Vi har scoutmöte varje tisdag kl 18.00-19.30
-
-Klicka [här](/tisdagar/) för mer information, scheman och inbjudan till hösthajken.
+Klicka här för att gå med i Scoutkåren Pionjärerna.
+Vi träffas varje tisdag kl 18.00-19.30
