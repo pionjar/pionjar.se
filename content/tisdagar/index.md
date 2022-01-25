@@ -1,17 +1,19 @@
 ---
 title: "Tisdagar"
 description: "Aktuella scheman och platser."
-date: "2018-08-30"
+date: "2022-01-25"
 menu:
   main:
     weight: 30
 ---
 # Schema
 
-- [Spårare](/tisdagar/2021-t2-spar.pdf) (årskurs 2-3)
-- [Upptäckare](/tisdagar/2021-t2-uppt.pdf) (årskurs 4-5)
+- [Spårare](/tisdagar/2022-t1-spar.pdf) (årskurs 2-3)
+- [Upptäckare](/tisdagar/2022-t1-uppt.pdf) (årskurs 4-5)
 
+<!--
 [Hösthajk](/tisdagar/hosthajk-2021-infolapp.pdf)
+-->
 
 # Information
 ## Knopar
