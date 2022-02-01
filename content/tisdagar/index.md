@@ -12,7 +12,7 @@ menu:
 - [Upptäckare](/tisdagar/2022-t1-uppt.pdf) (årskurs 4-5)
 
 <!--
-[Hösthajk](/tisdagar/hosthajk-2021-infolapp.pdf)
+[Vinterhajk](/tisdagar/2022-vinterhajk.pdf)
 -->
 
 # Information
