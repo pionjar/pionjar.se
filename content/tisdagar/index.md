@@ -11,9 +11,7 @@ menu:
 - [Spårare](/tisdagar/2022-t1-spar.pdf) (årskurs 2-3)
 - [Upptäckare](/tisdagar/2022-t1-uppt.pdf) (årskurs 4-5)
 
-<!--
 [Vinterhajk](/tisdagar/2022-vinterhajk.pdf)
--->
 
 # Information
 ## Knopar
