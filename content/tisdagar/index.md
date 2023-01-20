@@ -1,21 +1,19 @@
 ---
 title: "Tisdagar"
 description: "Aktuella scheman och platser."
-date: "2022-08-27"
+date: "2023-01-20"
 menu:
   main:
     weight: 30
 ---
-# Schema
-Scheman för hösten laddas upp inom kort
+# Schema VT 2023
 
-- [Spårare](/tisdagar/2022-t2-spar.pdf) (årskurs 2-3)
-- [Upptäckare](/tisdagar/2022-t2-uppt.pdf) (årskurs 4-5)
-- [Äventyrare](/tisdagar/2022-t2-aven.pdf) (årskurs 6-9)
+- [Spårare/Upptäckare](/tisdagar/2023-t1-spup.pdf) (årskurs 2-3 samt 4-5)
+- [Äventyrare](/tisdagar/2023-t1-aven.pdf) (årskurs 6-9)
 
-<!--
-[Vinterhajk](/tisdagar/2022-vinterhajk.pdf)
--->
+# Hajker
+
+[Vinterhajk](/tisdagar/2023-vinterhajk.pdf)
 
 # Information
 ## Knopar
@@ -39,6 +37,11 @@ De närmaste busshållplatserna är:
 
 ### Cykel
 Det går naturligtvis även utmärkt att cykla. Glöm inte hjälm och cykelljus.
+
+## Sunnerstagropen
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=17.65461623668671%2C59.789558361061154%2C17.662287354469303%2C59.7916826064481&amp;layer=mapnik" style="border: 1px solid black"></iframe>
+
+Barnen hämtas och lämnas vid parkeringen. Vi håller till vid grillplatsen nere i gropen.
 
 <!--
 ## Tipptoppen
